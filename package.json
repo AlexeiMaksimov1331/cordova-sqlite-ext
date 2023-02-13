@@ -1,0 +1,66 @@
+{
+  "_from": "git+https://github.com/frontenddeveloping/cordova-sqlite-ext.git#latest",
+  "_id": "cordova-sqlite-ext@3.0.0",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/cordova-sqlite-ext",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "git+https://github.com/frontenddeveloping/cordova-sqlite-ext.git#latest",
+    "rawSpec": "git+https://github.com/frontenddeveloping/cordova-sqlite-ext.git#latest",
+    "saveSpec": "git+https://github.com/frontenddeveloping/cordova-sqlite-ext.git#latest",
+    "fetchSpec": "https://github.com/frontenddeveloping/cordova-sqlite-ext.git",
+    "gitCommittish": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git+https://github.com/frontenddeveloping/cordova-sqlite-ext.git#5bfced16bc36a97ab1f55a38a87d2325393f890e",
+  "_spec": "git+https://github.com/frontenddeveloping/cordova-sqlite-ext.git#latest",
+  "_where": "/Users/christian/Documents/GitRepos/ReconPro.Mobile",
+  "author": {
+    "name": "various"
+  },
+  "bugs": {
+    "url": "https://github.com/litehelpers/cordova-sqlite-ext/issues"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-sqlite-ext",
+    "platforms": [
+      "android",
+      "ios",
+      "osx",
+      "windows"
+    ]
+  },
+  "dependencies": {
+    "cordova-sqlite-ext-deps": "2.0.0"
+  },
+  "deprecated": false,
+  "description": "Native interface to SQLite for PhoneGap/Cordova with extra features",
+  "devDependencies": {
+    "shelljs": "^0.8.3"
+  },
+  "homepage": "https://github.com/litehelpers/cordova-sqlite-ext",
+  "keywords": [
+    "sqlite",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios",
+    "cordova-osx",
+    "cordova-windows"
+  ],
+  "license": "MIT",
+  "name": "cordova-sqlite-ext",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/litehelpers/cordova-sqlite-ext.git"
+  },
+  "scripts": {
+    "start": "node scripts/prepareSpec.js"
+  },
+  "version": "3.0.0"
+}
